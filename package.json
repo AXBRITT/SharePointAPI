@@ -1,0 +1,31 @@
+{
+  "name": "sharepoint-javascript",
+  "version": "0.0.1",
+  "description": "SharePoint API functions",
+  "main": "sharepoint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXBRITT/SharePointAPI.git"
+  },
+  "keywords": [
+    "SharePoint",
+    "API"
+  ],
+  "author": "Andre Britton",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AXBRITT/SharePointAPI/issues"
+  },
+  "homepage": "https://github.com/AXBRITT/SharePointAPI#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
